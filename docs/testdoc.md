@@ -11,3 +11,6 @@ Doc to test
 # Section 2
 Hello world
 
+# Diagram
+![Diagram](https://github.com/jrotan/projects/blob/master/docs/test_diagram.png)
+
